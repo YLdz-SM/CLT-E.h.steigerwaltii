@@ -1,0 +1,73 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+
+#Examples
+#defined a name for an internal node
+
+#change the label for leaf node 9606
+V5R	V5R: PhoP--188
+Y38D	Y38D: PhoP--189
+V50L	V50L: PhoP--194
+R64G	R64G: PhoP--199
+R65S	R65S: PhoP--200
+H69N	H69N: PhoP--203
+V75F	V75F: PhoP--205
+E81G	E81G: PhoP--207
+G94V	G94V: PhoP--209
+Q133R	Q133R: PhoP--215
+P206S	P206S: PhoP--221
+V213A	V213A: PhoP--223
+K64R	K64R: phoQ-488
+N79D	N79D: phoQ-492
+L85M	L85M: phoQ-494
+K107N	K107N: phoQ-499
+P111Q	P111Q: phoQ-501
+A148E/N	A148E/N: phoQ-511
+A200T	A200T: phoQ-523
+E242A	E242A: phoQ-526
+T244S	T244S: phoQ-527
+M293I	M293I: phoQ-528
+S299R	S299R: phoQ-531
+D302E/N	D302E/N: phoQ-533
+Y321S	Y321S: phoQ-534
+R324L	R324L: phoQ-535
+A325P	A325P: phoQ-536
+S329A	S329A: phoQ-537
+V383A	V383A: phoQ-538
+A26T	A26T: pmrA--222
+E35D	E35D: pmrA--224
+D177E	D177E: pmrA--238
+N40S	N40S: pmrB--342
+R87Q	R87Q: pmrB--346
+P168S	P168S: pmrB--354
+V205D	V205D: pmrB--359
+E223A	E223A: pmrB--367
+A260N	A260N: pmrB--372
+T269N	T269N: pmrB--375
+G273D	G273D: pmrB--379
+D287A	D287A: pmrB--384
+T295I	T295I: pmrB--386
+Q320H	Q320H: pmrB--389
+E329D	E329D: pmrB--393
+E333Q	E333Q: pmrB--396
+L336W	L336W: pmrB--397
+A338V	A338V : pmrB--398
+V1M	V1M: mgrB--47

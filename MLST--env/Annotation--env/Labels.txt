@@ -1,0 +1,67 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+
+#Examples
+#defined a name for an internal node
+
+#change the label for leaf node 9606
+ST1042	ST1042: Enterobacter hormaechei subsp. steigerwaltii
+ ST1042	ST1042 / ST1042: E. h. subsp. steigerwaltii
+DRX366470	DRX366470 / ST591: E. kobei
+DRX366471	DRX366471 / ST591: E. kobei
+DRX366472	DRX366472 / ST591: E. kobei
+DRX366473	DRX366473 / ST591: E. kobei
+DRX366474	DRX366474 / ST1577: E. kobei
+DRX366475	DRX366475 / ST1578: E. asburiae
+DRX366476	DRX366476 / ST562: E. asburiae
+DRX366477	DRX366477 / ST1578: E. asburiae
+DRX366478	DRX366478 / ST1576: E. roggenkampii
+DRX366479	DRX366479 / ST606: E. roggenkampii
+DRX366480	DRX366480 / ST1579: E. hormachei
+DRX366481	DRX366481 / ST765: E. cloacae
+CP010512	CP010512 / ST252: E. cloacae 
+CP032291	CP032291 / ST73: E. cloacae  
+CP021749	CP021749 / ST163: E. cloacae
+CP014280	CP014280 / Novel: E. cloacae 
+CP011863	CP011863 / ST807: E. asburiae
+CP001918	CP001918 / ST873: E. c. subsp. cloacae
+AP022628	AP022628 / ST484: E.asburiae
+CP083862	CP083862 / ST56: E. kobei 
+CP083857	CP083857 / ST57: E. kobei 
+CP083853	CP083853 / ST523: E. roggenkampii
+CP083849	CP083849 / ST125: E. h. subsp. steigerwaltii
+CP083842	CP083842 / ST41: E. asburiae
+CP083834	CP083834 / ST27: E. asburiae 
+CP083830	CP083830 / ST252: E. asburiae
+CP083828	CP083828 / ST280: E. kobei 
+CP083824	CP083824 / Novel: E. ludwigii  
+CP083821	CP083821 / ST84: E. c. subsp. cloacae
+CP083819	CP083819 / ST702: E. roggenkampii 
+CP083815	CP083815 / ST1: E. asburiae
+CP017186	CP017186 / ST816: E. h.subsp. hoffmannii
+CP017180	CP017180 / ST108: E. h.subsp. oharae
+CP017179	CP017179 / ST906: E. h.subsp. steigerwaltii
+CP017181	CP017181 / ST806: E. kobei
+CP017279	CP017279 / ST714: E. ludwigii
+AP019007	AP019007 / Novel: E. oligotrophica
+CP017184	CP017184 / Novel: E. roggenkampii
+CP017183	CP017183 / ST544: E. xiangfangensisc
+CP002824	CP002824 / Out group: K. Aerogenes
