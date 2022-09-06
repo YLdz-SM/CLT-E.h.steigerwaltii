@@ -1,4 +1,4 @@
-# Colistin Resistance Mechanism in Enterobacter hormaechei Subsp. Steigerwaltii Isolated from Wild Boar (Sus scrofa) in France
+# Colistin Resistance Mechanism in Enterobacter hormaechei subsp. steigerwaltii Isolated from Wild Boar (Sus scrofa) in France
 
 
 **[1. Introduction](#Introduction)**
