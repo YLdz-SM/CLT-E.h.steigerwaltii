@@ -3,9 +3,9 @@
 
 **[1. Introduction](#Introduction)**
 
-**[2. Data](#Key-input-and-output-files-used-in-the-present-study)**
+**[2. Data](#Data)**
 
-**[3. Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
+**[3. Results](#Results)**
 
 **[4. Softwares](#Softwares)**
 
