@@ -63,7 +63,7 @@ Two folders (i.e., MLST--env and Two-component systems--env) are provided.
 7. [Genome assemblers: [Velvet](https://github.com/dzerbino/velvet.git); [Soap Denovo](https://github.com/yyabuki/docker-soap-denovo2.git); [Spades](https://github.com/ablab/spades.git)]
 8. [Phylogeny on mutation matrix: [Pars+Conesense within PHYLIP](https://github.com/felsenst/phylip.git)]
 9. [Protein domain prediction: [SMART](https://smart.embl.de)]
-10. [Chat: [Gitter](https://matrix.to/#/#Pipline:matrix.org)]
+10. [Chat: [Gitter](https://matrix.to/#/#younes19laidoudi@gmail.com:matrix.org)]
 
 
 # Citation
