@@ -69,5 +69,5 @@ Two folders (i.e., MLST--env and Two-component systems--env) are provided.
 # Citation
 If you use the above data, please cite the following paper:
 
-[Laidoudi et al., 2022: [Colistin Resistance Mechanism in Enterobacter hormaechei subsp. steigerwaltii Isolated from Wild Boar (Sus scrofa) in France](https://doi.org/10.3390/xxxxx)]
+[Laidoudi et al., 2022: [Colistin Resistance Mechanism in Enterobacter hormaechei subsp. steigerwaltii Isolated from Wild Boar (Sus scrofa) in France](https://doi.org/10.3390/pathogens11091022)]
 
