@@ -16,6 +16,10 @@
 # Introduction
 Wild animals may act as efficient antimicrobial-resistance reservoirs and epidemiological links between humans, livestock, and natural environments. By using phenotypic and genotypic char-acterization, the present study highlighted the occurrence of an antimicrobial-resistant (i.e., amoxicillin, amoxicillin–clavulanic acid, cephalothin, and colistin) Enterobacter hormaechei subsp. steigerwaltii strain in wild boar (Sus scrofa) from France. The molecular analysis con-ducted showed non-synonymous mutations in the pmrA/pmrB and  phoQ/phoP operons and the phoP/Q regulator mgrB gene, leading to colistin resistance. The present data highlight the need for continuous monitoring of multidrug-resistant bacteria in wild animals to limit the spread of these threatening pathogens.
 
+![Sans titre](https://user-images.githubusercontent.com/68795566/189236321-af09f2d8-d606-4888-b3a8-4bed01d3e2be.png)
+
+
+
 # Data
 
 
