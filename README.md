@@ -36,7 +36,9 @@ Two folders (i.e., MLST--env and Two-component systems--env) are provided.
 
 ## Files used for the molecular analysis of the Two-component systems 
 
-![Uploading Figure 2.JPEG…]()
+
+![Uploading Figure 2_page-0001.jpg…]()
+
 
 > DNA Sequences: Dataset of aligned DNA sequences of the Two-component systems 
 
