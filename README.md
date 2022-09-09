@@ -16,9 +16,6 @@
 # Introduction
 Wild animals may act as efficient antimicrobial-resistance reservoirs and epidemiological links between humans, livestock, and natural environments. By using phenotypic and genotypic char-acterization, the present study highlighted the occurrence of an antimicrobial-resistant (i.e., amoxicillin, amoxicillin–clavulanic acid, cephalothin, and colistin) Enterobacter hormaechei subsp. steigerwaltii strain in wild boar (Sus scrofa) from France. The molecular analysis con-ducted showed non-synonymous mutations in the pmrA/pmrB and  phoQ/phoP operons and the phoP/Q regulator mgrB gene, leading to colistin resistance. The present data highlight the need for continuous monitoring of multidrug-resistant bacteria in wild animals to limit the spread of these threatening pathogens.
 
-![Sans titre](https://user-images.githubusercontent.com/68795566/189236321-af09f2d8-d606-4888-b3a8-4bed01d3e2be.png)
-
-
 
 # Data
 
@@ -39,6 +36,8 @@ Two folders (i.e., MLST--env and Two-component systems--env) are provided.
 
 ## Files used for the molecular analysis of the Two-component systems 
 
+![Uploading Figure 2.JPEG…]()
+
 > DNA Sequences: Dataset of aligned DNA sequences of the Two-component systems 
 
 > Protein sequences: Dataset of the retrieved protein sequences of the Two-component systems 
@@ -50,6 +49,9 @@ Two folders (i.e., MLST--env and Two-component systems--env) are provided.
 
 
 ## Final *.tree Files are Available as Pre-edited Trees 
+
+![Sans titre](https://user-images.githubusercontent.com/68795566/189236321-af09f2d8-d606-4888-b3a8-4bed01d3e2be.png)
+
 
 > [ML tree on MLST data: [MLST phylogeny](https://itol.embl.de/tree/17614995190128331660146671)]
 
