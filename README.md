@@ -60,7 +60,7 @@ Two folders (i.e., MLST--env and Two-component systems--env) are provided.
 
 > [ML tree on MLST data: [MLST phylogeny](https://itol.embl.de/tree/17614995190128331660146671)]
 
-> [Par Tree on mutations: [Pars Tree](https://itol.embl.de/tree/4619364177282681660592756)]
+> [Parsimony Tree on mutations: [Pars Tree](https://itol.embl.de/tree/4619364177282681660592756)]
 
 
 # Softwares
